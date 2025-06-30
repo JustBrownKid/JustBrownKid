@@ -61,7 +61,7 @@ I'm a passionate junior web developer eager to build innovative and user-friendl
 
 ### 📫 How to reach me:
 - ?
--   **Email:** [your.email@example.com](mailto:phyoewaiheim@gmail.com)
--   **Portfolio/Personal Website:** [Your Website URL Here](https://phyowaiheim.netlify.app/) 
+-   **Email:** (mailto:phyoewaiheim@gmail.com)
+-   **Portfolio/Personal Website:** (https://phyowaiheim.netlify.app/) 
 
 ---
