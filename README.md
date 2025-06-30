@@ -43,7 +43,7 @@ I'm a passionate junior web developer eager to build innovative and user-friendl
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    </details>
+</details>
 
 ---
 
@@ -51,7 +51,7 @@ I'm a passionate junior web developer eager to build innovative and user-friendl
 -   Diving deeper into cloud platforms like AWS or Google Cloud.
 -   Exploring advanced state management patterns in React.js.
 
-### 👯 I’m looking to collaborate on...
+### 🤝 I’m looking to collaborate on...
 -   Open-source projects that help solve real-world problems.
 -   Web or mobile applications with a positive social impact.
 
@@ -59,9 +59,23 @@ I'm a passionate junior web developer eager to build innovative and user-friendl
 -   Anything related to web development (front-end or back-end)!
 -   My experiences with Laravel or React Native.
 
-### 📫 How to reach me:
-- ?
--   **Email:** (mailto:phyoewaiheim@gmail.com)
--   **Portfolio/Personal Website:** (https://phyowaiheim.netlify.app/) 
-
 ---
+
+### 🌐 Let's Connect!
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:phyoewaiheim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://phyowaiheim.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio" /> </a>
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JustBrownKid&show_icons=true&theme=dark" alt="JustBrownKid's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustBrownKid&layout=compact&theme=dark" alt="Top Languages" />
+</p>
